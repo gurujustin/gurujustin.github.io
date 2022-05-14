@@ -1,0 +1,58 @@
+{
+    "name":"DegenList",
+    "timestamp":"2020-11-16T12:00:15+00:00",
+    "keywords":[
+       "DegenList"
+    ],
+    "version":{
+       "major":1,
+       "minor":1,
+       "patch":0
+    },
+    "tokens":[
+       {
+          "chainId":1,
+          "address":"0x4eA507bf90b2D206BfF56999dc76E39e447d2587",
+          "symbol":"RAT",
+          "name":"The Rare Antiquities Token Ltd",
+          "decimals":9
+       },
+       {
+          "chainId":1,
+          "address":"0x6b175474e89094c44da98b954eedeac495271d0f",
+          "symbol":"DAI",
+          "name":"Dai",
+          "decimals":18
+       },
+       {
+          "chainId":1,
+          "address":"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "symbol":"WETH",
+          "name":"Wrapped Ether",
+          "decimals":18
+       },
+       {
+        "chainId":1,
+        "address":"0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "symbol":"USDT",
+        "name":"Tether USD",
+        "decimals":18
+     },
+     {
+      "chainId":1,
+      "address":"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol":"USDC",
+      "name":"USD Coin",
+      "decimals":18
+   },
+    {
+      "chainId":1,
+      "address":"0x4eA507bf90b2D206BfF56999dc76E39e447d2587",
+      "symbol":"RAT",
+      "name":"The Rare Antiquities Token Ltd",
+      "decimals":9,
+      "logoURI": "https://bafybeieocp6folfpgoybhdturaifrwar57z2xbzss7lglthf7uanumy4ri.ipfs.infura-ipfs.io/"
+    }
+    ],
+    "logoURI":"https://bafybeicwsmewntit2zdcnv2rzjsaglohtordm2w44dofn2b5knyslyh4p4.ipfs.infura-ipfs.io/"
+  }
