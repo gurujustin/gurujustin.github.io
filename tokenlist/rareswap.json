@@ -16,7 +16,7 @@
           "symbol":"RAT",
           "name":"The Rare Antiquities Token Ltd",
           "decimals":9,
-          "logoURI": "https://bafybeieocp6folfpgoybhdturaifrwar57z2xbzss7lglthf7uanumy4ri.ipfs.infura-ipfs.io/"
+          "logoURI": "https://alphadev102.github.io/tokens/rat.png"
         },
        {
           "chainId":1,
@@ -47,5 +47,5 @@
       "decimals":18
    }
     ],
-    "logoURI":"https://bafybeicwsmewntit2zdcnv2rzjsaglohtordm2w44dofn2b5knyslyh4p4.ipfs.infura-ipfs.io/"
+    "logoURI":"https://alphadev102.github.io/tokens/rat.png"
   }
