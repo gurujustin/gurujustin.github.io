@@ -1,0 +1,51 @@
+{
+    "name":"RareSwapList",
+    "timestamp":"2020-11-16T12:00:15+00:00",
+    "keywords":[
+       "RareSwapList"
+    ],
+    "version":{
+       "major":1,
+       "minor":1,
+       "patch":0
+    },
+    "tokens":[
+        {
+          "chainId":56,
+          "address":"0x151F4b849B1Baa1C98330e1F26A369F6A8a2e4A6",
+          "symbol":"RAT",
+          "name":"The Rare Antiquities Token Ltd",
+          "decimals":9,
+          "logoURI": "https://alphadev102.github.io/tokens/rat.png"
+        },
+       {
+          "chainId":56,
+          "address":"0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+          "symbol":"DAI",
+          "name":"Dai",
+          "decimals":18
+       },
+       {
+          "chainId":56,
+          "address":"0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "symbol":"WBNB",
+          "name":"Wrapped BNB",
+          "decimals":18
+       },
+       {
+        "chainId":56,
+        "address":"0x55d398326f99059ff775485246999027b3197955",
+        "symbol":"USDT",
+        "name":"Tether USD",
+        "decimals":18
+     },
+     {
+      "chainId":56,
+      "address":"0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "symbol":"USDC",
+      "name":"USD Coin",
+      "decimals":18
+   }
+    ],
+    "logoURI":"https://alphadev102.github.io/tokens/rat.png"
+  }
