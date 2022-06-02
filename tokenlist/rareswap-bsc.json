@@ -23,28 +23,32 @@
           "address":"0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
           "symbol":"DAI",
           "name":"Dai",
-          "decimals":18
+          "decimals":18,
+          "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3/logo.png"
        },
        {
           "chainId":56,
           "address":"0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
           "symbol":"WBNB",
           "name":"Wrapped BNB",
-          "decimals":18
+          "decimals":18,
+          "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
        },
        {
         "chainId":56,
         "address":"0x55d398326f99059ff775485246999027b3197955",
         "symbol":"USDT",
         "name":"Tether USD",
-        "decimals":18
+        "decimals":18,
+        "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x55d398326f99059fF775485246999027B3197955/logo.png"
      },
      {
       "chainId":56,
       "address":"0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "symbol":"USDC",
       "name":"USD Coin",
-      "decimals":18
+      "decimals":18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
    }
     ],
     "logoURI":"https://alphadev102.github.io/tokens/rat.png"
