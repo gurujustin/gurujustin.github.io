@@ -1,5 +1,5 @@
-# alphadev102.github.io
+# gurujustin.github.io
 
-https://alphadev102.github.io
+https://gurujustin.github.io
 
 this link
